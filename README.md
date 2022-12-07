@@ -13,6 +13,7 @@
 - ⚡ Fun fact **I think I am cheerful and very hardworking**
 
 <h3 align="left">Connect with me:</h3>
+<a href="https://www.linkedin.com/in/juliaglukhova](https://www.linkedin.com/in/%D0%B2%D0%B0%D0%BB%D0%B5%D1%80%D0%B8%D1%8F-%D1%81%D0%B0%D1%84%D0%BE%D0%BD%D0%BE%D0%B2%D0%B0-1ab924259?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BwSnt%2FDMYTKys%2FeZb0e81EA%3D%3D" rel="nofollow"><img align="left" alt="juljuliks | LinkedIn" width="40px" src="https://camo.githubusercontent.com/e2cb3e9b628d934cc325efa9dd437bcf60d947c47e98f6341ae8d2d594a6c600/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6c696e6b6564696e2d322d2d76312e706e67" data-canonical-src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png" style="max-width: 100%;"></a>
 <p align="left">
 </p>
 
