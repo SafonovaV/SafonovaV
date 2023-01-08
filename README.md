@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Valeria Safonova</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/girl-study-at-computer-with-books-and-lamp_186332-256.jpg?w=2000">
+<img align="right" alt="Coding" width="400" src="https://farm66.staticflickr.com/65535/52615480565_79d3fccbfd_m.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safonovav&label=Profile%20views&color=0e75b6&style=flat" alt="safonovav" /> </p>
 
