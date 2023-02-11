@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safonovav&label=Profile%20views&color=0e75b6&style=flat" alt="safonovav" /> </p>
 
-- 🌱 I’m currently learning **React, TypeScript**
+- 🌱 I’m currently learning **TypeScript**
 
 - 💬 Ask me about **JavaScript, HTML, CSS, Jest, PostgreSQL**
 
